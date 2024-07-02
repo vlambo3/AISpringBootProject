@@ -17,10 +17,10 @@ This project is a simple Spring Boot application that uses Hugging Face's Distil
 ### Postman test
 
 #### Positive comment
-![Positive comment](https://raw.githubusercontent.com/vlambo3/IASpringBootProject/main/images/positive-comment.png)
+![Positive comment](https://raw.githubusercontent.com/vlambo3/AISpringBootProject/main/images/positive-comment.png)
 
 #### Negative comment
-![Negative comment](https://raw.githubusercontent.com/vlambo3/IASpringBootProject/main/images/negative-comment.png)
+![Negative comment](https://raw.githubusercontent.com/vlambo3/AISpringBootProject/main/images/negative-comment.png)
 
 - We try writing a comment and we can see if the comment is positive or not and a score for it.
 
@@ -32,8 +32,8 @@ To get started with this project, follow the steps below:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/vlambo3/IASpringBootProject.git
-cd IASpringBootProject
+git clone https://github.com/vlambo3/AISpringBootProject.git
+cd AISpringBootProject
 ```
 
 ## Contact
